@@ -1,2 +1,2 @@
 # timer
-### vanilla JS timer which "beeps" at specific intervals specified by command like args
+### vanilla JS timer which "beeps" at specific intervals specified by command line args
